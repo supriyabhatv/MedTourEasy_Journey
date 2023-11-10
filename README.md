@@ -13,6 +13,11 @@ a significant difference in the death age between the two groups and identify th
 better understanding of the impact of left-handedness on mortality and contribute to the existing body of research on this topic. The project will use 
 statistical techniques and data visualization to analyze the data and draw conclusions.
 
+### Objective:
+This project involves analyzing the death age difference between left-handers 
+and right-handers. The objective of this study is to investigate whether 
+handedness is associated with differences in death age.
+
 **About dataset:**
 The dataset consists of 3 columns, each column representing an attribute!
 
@@ -20,9 +25,23 @@ The dataset consists of 3 columns, each column representing an attribute!
 - Male: This column indicates the count of male individuals in the dataset corresponding to each age group.
 - Female: This column indicates the count of female individuals in the dataset corresponding to each age group.
 
-## Cleaning and Preprocessing the data 
-For this project, performed data analysis using python.Loaded the dataset 
-from csv file using pandas which is a data visualization library in python.
+### Project Workflow:
+1. **Data Collection and Cleaning:**
+   -  Handedness data from National Geographic Survey.
+   -  Death distribution data for United States.
+   -  Checking for null values or missing values in each column.
+  
+1. **Left-Handedness Analysis:**
+   - Developed functions to compute the probability of being left-handed given the age at death.
+   - Created a function to determine the overall probability of being left-handed if an individual died in a specific year.
+  
+1. **Right-Handedness Analysis:**
+   - Formulated a function to calculate the overall probability of being right-handed if an individual died in a specific year.
+   - Explored the complementary relationship between left-handedness and right-handedness probabilities.
+  
+1. **Age Probability Calculations:**
+   - Estimated the probability of 
+      
 
 
 
