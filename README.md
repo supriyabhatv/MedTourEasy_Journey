@@ -18,7 +18,7 @@ This project involves analyzing the death age difference between left-handers
 and right-handers. The objective of this study is to investigate whether 
 handedness is associated with differences in death age.
 
-**About dataset:**
+### About dataset:
 The dataset consists of 3 columns, each column representing an attribute!
 
 - Age: This column represents the age of individuals in the dataset
@@ -40,7 +40,28 @@ The dataset consists of 3 columns, each column representing an attribute!
    - Explored the complementary relationship between left-handedness and right-handedness probabilities.
   
 1. **Age Probability Calculations:**
-   - Estimated the probability of 
+   - Estimated the probability of being a particular age at death given left-handedness.
+   - Applied the same methodology to calculate the probabilities for right-handed individuals.
+  
+1. **Visualizations:**
+   - Plotted the age-dependent probabilities of being left-handed and right-handed.
+   - Visualized how these probabilities change across different ages at the time of death.
+  
+1. **Average Age Calculation:**
+   - Calculated the average age at death for left-handed and right-handed individuals.
+   - Utilized the probabilities and ages to compute the weighted average ages for each group.
+
+1. **Results and Insights**
+   - Printed and analyzed the average ages for left-handed and right-handed groups.
+   - Emphasized the observed difference in average ages, providing meaningful insights into the potential impact of handedness on lifespan.
+  
+1. **Conclusion**
+   - Conducted the analysis by summarizing the key findings and insights.
+   - Addressed study limitations and suggested avenues for future research, including exploring additional demographic factors.
+
+## Outcome:
+The project yielded valuable insights into the average ages at death for left-handed and right-handed individuals, 
+contributing to our understanding of potential associations between handedness and lifespan. 
       
 
 
