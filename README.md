@@ -26,6 +26,7 @@ The dataset consists of 3 columns, each column representing an attribute!
 - Female: This column indicates the count of female individuals in the dataset corresponding to each age group.
 
 ### Project Workflow:
+For this project, we performed data analysis using python!
 1. **Data Collection and Cleaning:**
    -  Handedness data from National Geographic Survey.
    -  Death distribution data for United States.
