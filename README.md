@@ -5,7 +5,7 @@ Story of my journey in MedTourEasy as a data analyst trainee and complete story 
 MedTourEasy, a global healthcare company, provides you the informational resources needed to evaluate your global options. It helps you find the right healthcare solution based on specific health needs, affordable care while meeting the quality standards that you expect to have in healthcare. MedTourEasy improves access to healthcare for people everywhere. MedTourEasy provides analytical solutions to our partner healthcare providers globally.
 
 ### About Project
-### Project Name:Analyze death age difference of left handers with right handers
+### Project Name:Handedness and Life Expectancy Analysis
 
 ### Problem Statement:
 The problem statement for this project is to analyze the death age difference between left-handers and right-handers. We aim to determine whether there is 
